@@ -1,0 +1,21 @@
+{
+  "name": "Google-Hash-Code-2020-Practice",
+  "version": "1.0.0",
+  "description": "More Pizza - Solution for the Practice Round of Google Hash Code 2020 Competition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AramRafeq/Google-Hash-Code-2020-Practice.git"
+  },
+  "keywords": ["Google-Hash-Code-2020", "Google-Hash-Code-2020 solution", "Google-Hash-Code-2020 practice solution"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AramRafeq/Google-Hash-Code-2020-Practice/issues"
+  },
+  "homepage": "https://github.com/AramRafeq/Google-Hash-Code-2020-Practice#readme"
+}
